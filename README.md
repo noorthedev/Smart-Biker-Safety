@@ -19,7 +19,8 @@
 - Python 3.8+
 
  🧠 Object-Oriented Design
-RideGuard application mein Object-Oriented Programming (OOP) ke 4 bunyadi principles ko implement kiya gaya hai:
+The RideGuard application implements the 4 fundamental principles of Object-Oriented Programming (OOP):
+
 1. Encapsulation
 - Classes jaise User, Incident, aur Feedback mein data aur unke related methods ko encapsulate kiya gaya hai.
 - Private variables aur methods ka istemal karke data ko unauthorized access se mehfooz rakha gaya hai.
