@@ -1,1 +1,3 @@
-steamlit
+streamlit
+pandas
+openpyxl
